@@ -1,3 +1,8 @@
+This is the expanded project for the course Software Processes and Patterns at DTU.
+
+
+
+
 The source code for 3DCR Beta Generator can be run from the Unity Editor by performing the following steps:
 To install and modify the code, simply add the artifact folder in the Unity Hub.
 To view the sample scene double click the file Assets/Scenes/Office_English_Abstract in the Unity Editor. 
