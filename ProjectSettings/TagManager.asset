@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ThrowingObject
+  - Fire
+  - PlayerDamageZone
+  - Floor
+  - FailZone
+  - Ring
+  - Net
+  - Backboard
+  - Pole
+  - RingTrigger
+  - NetTrigger
+  - ButtonsContainer
+  - SickCoworker
+  - Planner
+  - Planner02
+  - Volunteer
+  - Secretary
+  - StaffCaller
+  - Manager
+  - Character
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ThrowingObject
+  - NoCollisionsInLayer
+  - Active Environment
+  - Floor
+  - Shootable
+  - 
+  - BasketballNet
+  - 
+  - FailZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
